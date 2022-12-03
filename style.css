@@ -1,0 +1,28 @@
+.grid-container {
+    border: 5px solid black;
+    height: 500px;
+    width: 500px;
+    display: grid;
+
+}
+.header {
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 20px;
+  background-color: aqua;
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+body {
+  display: flex;
+  justify-content: center;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-A1kR3x-6pDCBwfzNsTQJOMfbvUpUgsLh7cIT_pzPZVeYyRDPto7FeIODmIXjh1UE5w&usqp=CAU');
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
